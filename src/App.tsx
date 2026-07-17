@@ -108,7 +108,7 @@ export default function App() {
       <header className="topbar">
         <div className="brand">
           <span className="brand-mark"><Radar size={19} /></span>
-          <span>MethaneLens <b>AI</b></span>
+          <span>MethaneLens</span>
         </div>
         <nav aria-label="Primary navigation">
           <a href="#workspace" className="active">Workspace</a>
